@@ -12,9 +12,9 @@ assignees: ''
 
 ## Steps to Reproduce
 
-1. 
-2. 
-3. 
+1. <!-- First step -->
+2. <!-- Second step -->
+3. <!-- Third step -->
 
 ## Expected Behavior
 
@@ -26,8 +26,8 @@ assignees: ''
 
 ## Environment
 
-- OS: 
-- Version: 
+- OS: <!-- e.g., Windows 11, macOS 14.1, Ubuntu 22.04 -->
+- Version: <!-- e.g., v1.2.3 -->
 
 ## Additional Context
 
