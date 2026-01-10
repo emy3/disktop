@@ -1,4 +1,5 @@
 //! [disktop rust cli app to monitor disk usage]
+//! Entry point, setups the terminal and event loop
 
 use std::error::Error;
 use std::time::Duration;
